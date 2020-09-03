@@ -1,0 +1,42 @@
+8.9  QT
+menu 菜单
+Action 行为
+label 标签
+tool 工具
+buffer 缓冲
+bar 柜台,栏
+例如: 工具栏 toolbar 
+widget 小装置
+status 状态
+dialog 对话
+attribute 属性
+message 消息
+title 标题
+radio(收音机) button 单选按钮
+item 项目
+align 排列
+row 行
+column 列
+stack 栈
+queue 队列
+current 当前
+index 索引
+tab 标签
+
+8.10  QT
+
+tool   工具
+override	 覆盖
+whether 是否
+pixmap 图像
+load 加载
+zoom 缩放
+trigger 触发
+load 加载
+
+
+能缩小范围的词叫限定词
+加不加ed重点是看是否主动
+to do  将要做的事
+抽象名词经常加一句同位语从句来修饰该名词
+
